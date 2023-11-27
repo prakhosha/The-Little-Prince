@@ -71,9 +71,4 @@ If there is ever a sequel to this story, it would be about where the pilot is go
 ## References
 
 - The Little Prince, Antoine de Saint-Exupéry
-- The Myth of Sissyphus, Albert Camus
-
-
-```python
-
-```
+- The Myth of Sisyphus, Albert Camus
